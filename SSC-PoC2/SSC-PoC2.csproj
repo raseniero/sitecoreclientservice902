@@ -38,6 +38,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="App_Config\Sitecore\Services.Client\Sitecore.Services.Client.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -178,5 +179,6 @@
     <Compile Include="NewsArticleController.cs" />
     <Compile Include="NewsArticleRepository.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
