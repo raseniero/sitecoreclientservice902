@@ -72,9 +72,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+[**raseniero**](https://raseniero.github.io/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/raseniero/sitecoreclientservice902/graphs/contributors) who participated in this project.
 
 ## License
 
