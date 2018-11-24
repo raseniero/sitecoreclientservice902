@@ -1,6 +1,6 @@
 # A sample Sitecore Service Client (SSC) for Sitecore Experience Platform (XP) v9.0.2
 
-This is a sample code to demonstrate how to create a SSC EntityService
+This is a sample code to demonstrate how to create an EntityService in SSC
 
 ## Getting Started
 
@@ -58,7 +58,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Sitecore](http://www.sitecore.com/) - Version 9.0.2
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
