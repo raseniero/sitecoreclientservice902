@@ -8,11 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+1. Working installation of Sitecore v9.0.2
+2. Visual Studio 2017
+3. Fiddler
 
 ### Installing
 
