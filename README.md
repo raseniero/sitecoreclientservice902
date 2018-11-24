@@ -2,7 +2,7 @@
 
 This is a sample code to demonstrate how to create an EntityService in SSC.
 
->Note: This documentation is still a **work-in-progress**, do expect constant updates. For questions or need elaboration please send an email to *rasenieroAtGmailDotCom*.
+>**Note:** This documentation is still a **work-in-progress**, do expect constant updates. For questions or need elaboration please send an email to *rasenieroAtGmailDotCom*.
 
 ## Getting Started
 
