@@ -25,10 +25,11 @@ A step by step series of examples that tell you how to get a development env run
 3. Open the solution file (**SSC-PoC2.sln**) from Visual Studio
 4. Restore *Nuget package* for the solution
 5. Build the solution
-6. Locate the */bin/* folder of your solution then copy **SSC-PoC2.dll** to your Sitecore's instance */bin/* folder.
-7. Launch *Fiddler*
-8. From *Fiddler* compose a *GET* request with HTTP/1.1 to http://xp0.sc/sitecore/api/ssc/ssc-poc2-controller/newarticle - (**Note:** Replace *xp0.sc* with the domain of your site.)
-9. From *Fiddler* inspect the results, if test was successful it should return a JSON object with *Title=News1 and Description=Description1*
+6. Locate the */bin/* folder of your solution then copy **SSC-PoC2.dll** to your Sitecore's */bin/* folder.
+7. Deploy the *Sitecore.Services.Client.config* to your Sitecore's */App_Config/Sitecore/Services.Client/* folder
+8. Launch *Fiddler*
+9. From *Fiddler* compose a *GET* request with HTTP/1.1 to http://xp0.sc/sitecore/api/ssc/ssc-poc2-controller/newarticle - (**Note:** Replace *xp0.sc* with the domain of your site.)
+10. From *Fiddler* inspect the results, if test was successful it should return a JSON object with *Title=News1 and Description=Description1*
 
 ## Built With
 
