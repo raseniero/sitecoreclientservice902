@@ -59,8 +59,8 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Sitecore](http://www.sitecore.com/) - Version 9.0.2
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Fiddler](https://www.fiddler.org/) - Use to test the request (I used the MacOS version)
+* [Visual Studio](https://www.visualstudio.com/) - Version 2017
 
 ## Contributing
 
