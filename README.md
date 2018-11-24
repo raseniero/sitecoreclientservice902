@@ -1,6 +1,6 @@
 # A sample Sitecore Service Client (SSC) for Sitecore Experience Platform (XP) v9.0.2
 
-One Paragraph of project description goes here
+This is a sample code to demonstrate how to create a SSC EntityService
 
 ## Getting Started
 
